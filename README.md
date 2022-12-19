@@ -5,7 +5,7 @@ I‘m a co-founder of [Taskless](https://github.com/taskless), a robust job queu
 Elsewhere:
 
 - ✍🏻 <a href="https://codedrift.com" rel="me">Longer-form writing and observations</a>
-- 🐘 <a href="https://hachyderm.io/@jakobo" rel="me">@jakobo&#64;hachyderm.io</a>
+- 🐘 <a href="https://hachyderm.io/@jakobo" rel="me">@jakobo @ hachyderm.io</a>
 - 💼 <a href="https://linkedin.com/in/jakobheuser" rel="me">in/jakobheuser</a>
 
 <!--
